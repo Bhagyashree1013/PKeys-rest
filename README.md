@@ -148,4 +148,4 @@ project-repo/
 - `cryptography` library
 
 ## Contact
-For any questions or issues, please contact Shukoor at developer.shukoor@gmail.com.
+For any questions or issues, please contact Shukoor at bhagyadevareddy@gmail.com.
